@@ -4,7 +4,7 @@ A small Windows desktop app that publishes local video files through FFmpeg and 
 
 ## Run the portable app
 
-Download the ready-to-run Windows package from [GitHub Releases](https://github.com/jmorrish/RTSPDesk/releases/latest). FFmpeg and MediaMTX are included.
+Prebuilt Windows downloads, when published, will appear on [GitHub Releases](https://github.com/jmorrish/RTSPDesk/releases). You can also create the portable package by following **Build a Windows package** below. Packaged builds include FFmpeg and MediaMTX.
 
 1. Extract **RTSPDesk-Windows-x64.zip** to a folder you can write to. Keep the whole folder together.
 2. Open **RTSPDesk.exe**. No Python installation, administrator account, or Windows service is required.
